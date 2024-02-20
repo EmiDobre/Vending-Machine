@@ -1,0 +1,12 @@
+
+{ 
+    crc :  7995344283856000612  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 52034fbca5904ef9bc136f544932a94a --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Vending_tb_behav xil_defaultlib.Vending_tb" , 
+    buildDate : "Nov 18 2020" , 
+    buildTime : "09:47:47" , 
+    linkCmd : "D:\\Vivado\\2020.2\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/Vending_tb_behav/xsimk.exe\"   \"xsim.dir/Vending_tb_behav/obj/xsim_0.win64.obj\" \"xsim.dir/Vending_tb_behav/obj/xsim_1.win64.obj\" -L\"D:\\Vivado\\2020.2\\lib\\win64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

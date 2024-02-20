@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/crist/OneDrive/Desktop/VendingMachine/VendingMachine.srcs/sources_1/new/Vending.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Vending'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/crist/OneDrive/Desktop/VendingMachine/VendingMachine.srcs/sim_1/new/Vending_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Vending_tb'
